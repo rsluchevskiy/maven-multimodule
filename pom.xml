@@ -27,6 +27,11 @@
             <artifactId>okhttp</artifactId>
             <version>3.6.0</version>
         </dependency>
-    </dependencies>
+      <dependency>
+         <groupId>com.squareup.okio</groupId>
+         <artifactId>okio</artifactId>
+         <version>3.9.0</version>
+      </dependency>
+   </dependencies>
 
 </project>
